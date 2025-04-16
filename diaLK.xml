@@ -1,0 +1,1674 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv><channel id="Channel One">
+        <display-name lang="si">Channel One</display-name>
+        <icon src="https://api2.viu.lk/api/client/v1/global/images/25660?accessKey=WkVjNWNscFhORDBLCg==" />
+    </channel>
+<channel id="Rupavahini">
+        <display-name lang="si">Rupavahini</display-name>
+        <icon src="https://api2.viu.lk/api/client/v1/global/images/25661?accessKey=WkVjNWNscFhORDBLCg==" />
+    </channel>
+<channel id="ITN">
+        <display-name lang="si">ITN</display-name>
+        <icon src="https://api2.viu.lk/api/client/v1/global/images/25663?accessKey=WkVjNWNscFhORDBLCg==" />
+    </channel>
+<channel id="TV Derana">
+        <display-name lang="si">TV Derana</display-name>
+        <icon src="https://api2.viu.lk/api/client/v1/global/images/25665?accessKey=WkVjNWNscFhORDBLCg==" />
+    </channel>
+<channel id="Shakthi TV">
+        <display-name lang="si">Shakthi TV</display-name>
+        <icon src="https://api2.viu.lk/api/client/v1/global/images/25668?accessKey=WkVjNWNscFhORDBLCg==" />
+    </channel>
+<channel id="Supreme TV">
+        <display-name lang="si">Supreme TV</display-name>
+        <icon src="https://api2.viu.lk/api/client/v1/global/images/25679?accessKey=WkVjNWNscFhORDBLCg==" />
+    </channel>
+<channel id="Siyatha TV">
+        <display-name lang="si">Siyatha TV</display-name>
+        <icon src="https://api2.viu.lk/api/client/v1/global/images/25674?accessKey=WkVjNWNscFhORDBLCg==" />
+    </channel>
+<channel id="Ridee TV">
+        <display-name lang="si">Ridee TV</display-name>
+        <icon src="https://api2.viu.lk/api/client/v1/global/images/25677?accessKey=WkVjNWNscFhORDBLCg==" />
+    </channel>
+<channel id="Citi Hitz">
+        <display-name lang="si">Citi Hitz</display-name>
+        <icon src="https://api2.viu.lk/api/client/v1/global/images/25678?accessKey=WkVjNWNscFhORDBLCg==" />
+    </channel>
+<channel id="Hi TV">
+        <display-name lang="si">Hi TV</display-name>
+        <icon src="https://api2.viu.lk/api/client/v1/global/images/25681?accessKey=WkVjNWNscFhORDBLCg==" />
+    </channel>
+<programme start="20250416063000 +0000" stop="20250416093000 +0000" channel="Channel One">
+                        <title lang="si">Style</title>
+                        <desc lang="si">Style</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152925?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152925?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416093000 +0000" stop="20250416100000 +0000" channel="Channel One">
+                        <title lang="si">Susumaka Ima</title>
+                        <desc lang="si">Susumaka Ima</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/104774?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/104774?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416100000 +0000" stop="20250416103000 +0000" channel="Channel One">
+                        <title lang="si">Idora Wassa</title>
+                        <desc lang="si">Idora Wassa</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/105119?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/105119?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416103000 +0000" stop="20250416110000 +0000" channel="Channel One">
+                        <title lang="si">Suwa Arana</title>
+                        <desc lang="si">Suwa Arana</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/107123?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/107123?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416110000 +0000" stop="20250416113000 +0000" channel="Channel One">
+                        <title lang="si">Cooking Beats</title>
+                        <desc lang="si">Cooking Beats</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76752?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76752?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416113000 +0000" stop="20250416123000 +0000" channel="Channel One">
+                        <title lang="si">Sindu Choice</title>
+                        <desc lang="si">Sindu Choice</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34135?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34135?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416123000 +0000" stop="20250416133000 +0000" channel="Channel One">
+                        <title lang="si">Ru Naari</title>
+                        <desc lang="si">Ru Naari</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416133000 +0000" stop="20250416140000 +0000" channel="Channel One">
+                        <title lang="si">Kandula</title>
+                        <desc lang="si">Kandula</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35375?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35375?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416140000 +0000" stop="20250416150000 +0000" channel="Channel One">
+                        <title lang="si">World Wide</title>
+                        <desc lang="si">World Wide</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416150000 +0000" stop="20250416153000 +0000" channel="Channel One">
+                        <title lang="si">Susumaka Ima</title>
+                        <desc lang="si">Susumaka Ima</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/104774?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/104774?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416153000 +0000" stop="20250416160000 +0000" channel="Channel One">
+                        <title lang="si">Idora Wassa</title>
+                        <desc lang="si">Idora Wassa</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/105119?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/105119?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416160000 +0000" stop="20250416183000 +0000" channel="Channel One">
+                        <title lang="si">Chuzhal</title>
+                        <desc lang="si">Chuzhal</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152926?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152926?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416183000 +0000" stop="20250416190000 +0000" channel="Channel One">
+                        <title lang="si">Chuzhal</title>
+                        <desc lang="si">Chuzhal</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152926?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152926?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416190000 +0000" stop="20250416193000 +0000" channel="Channel One">
+                        <title lang="si">Slow Flow</title>
+                        <desc lang="si">Slow Flow</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/107041?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/107041?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416193000 +0000" stop="20250416200000 +0000" channel="Channel One">
+                        <title lang="si">Susumaka Ima</title>
+                        <desc lang="si">Susumaka Ima</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/104774?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/104774?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416200000 +0000" stop="20250416203000 +0000" channel="Channel One">
+                        <title lang="si">Idora Wassa</title>
+                        <desc lang="si">Idora Wassa</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/105119?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/105119?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416203000 +0000" stop="20250416210000 +0000" channel="Channel One">
+                        <title lang="si">Ginimelaya</title>
+                        <desc lang="si">Ginimelaya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/79243?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/79243?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416210000 +0000" stop="20250416213000 +0000" channel="Channel One">
+                        <title lang="si">Hitha Langa Doc 990</title>
+                        <desc lang="si">Hitha Langa Doc 990</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/75673?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/75673?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416213000 +0000" stop="20250416223000 +0000" channel="Channel One">
+                        <title lang="si">Sindu Choice</title>
+                        <desc lang="si">Sindu Choice</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34135?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34135?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416223000 +0000" stop="20250416233000 +0000" channel="Channel One">
+                        <title lang="si">Ru Nari</title>
+                        <desc lang="si">Ru Nari</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417013000 +0000" stop="20250417023000 +0000" channel="Channel One">
+                        <title lang="si">Slow Flow</title>
+                        <desc lang="si">Slow Flow</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/107041?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/107041?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417023000 +0000" stop="20250417030000 +0000" channel="Channel One">
+                        <title lang="si">Hitha Langa Doc 990</title>
+                        <desc lang="si">Hitha Langa Doc 990</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/75673?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/75673?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417030000 +0000" stop="20250417033000 +0000" channel="Channel One">
+                        <title lang="si">Ginimelaya</title>
+                        <desc lang="si">Ginimelaya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/79243?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/79243?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417033000 +0000" stop="20250417043000 +0000" channel="Channel One">
+                        <title lang="si">World Wide</title>
+                        <desc lang="si">World Wide</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417043000 +0000" stop="20250417053000 +0000" channel="Channel One">
+                        <title lang="si">Sindu Choice</title>
+                        <desc lang="si">Sindu Choice</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34135?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34135?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417053000 +0000" stop="20250417063000 +0000" channel="Channel One">
+                        <title lang="si">Ru Naari</title>
+                        <desc lang="si">Ru Naari</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417063000 +0000" stop="20250417093000 +0000" channel="Channel One">
+                        <title lang="si">Awe</title>
+                        <desc lang="si">Awe</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/153198?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/153198?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416083000 +0000" stop="20250416093000 +0000" channel="Rupavahini">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152931?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152931?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416093000 +0000" stop="20250416100000 +0000" channel="Rupavahini">
+                        <title lang="si">Nim Nethi Lowa</title>
+                        <desc lang="si">Nim Nethi Lowa</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/135477?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/135477?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416100000 +0000" stop="20250416102500 +0000" channel="Rupavahini">
+                        <title lang="si">Humpty Dumpty</title>
+                        <desc lang="si">Humpty Dumpty</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141929?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141929?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416102500 +0000" stop="20250416103000 +0000" channel="Rupavahini">
+                        <title lang="si">News - Live</title>
+                        <desc lang="si">News - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416103000 +0000" stop="20250416113000 +0000" channel="Rupavahini">
+                        <title lang="si">Nana Mihira - Live</title>
+                        <desc lang="si">Nana Mihira - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/149390?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/149390?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416113000 +0000" stop="20250416120000 +0000" channel="Rupavahini">
+                        <title lang="si">Nada Ranga</title>
+                        <desc lang="si">Nada Ranga</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141242?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141242?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416120000 +0000" stop="20250416122500 +0000" channel="Rupavahini">
+                        <title lang="si">Musical Programme</title>
+                        <desc lang="si">Musical Programme</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35780?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35780?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416122500 +0000" stop="20250416123000 +0000" channel="Rupavahini">
+                        <title lang="si">News - Live</title>
+                        <desc lang="si">News - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416123000 +0000" stop="20250416130000 +0000" channel="Rupavahini">
+                        <title lang="si">Musical Programme</title>
+                        <desc lang="si">Musical Programme</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35780?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35780?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416130000 +0000" stop="20250416140000 +0000" channel="Rupavahini">
+                        <title lang="si">Sujatha Diyani</title>
+                        <desc lang="si">Sujatha Diyani</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131792?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131792?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416140000 +0000" stop="20250416143000 +0000" channel="Rupavahini">
+                        <title lang="si">Hemalayo</title>
+                        <desc lang="si">Hemalayo</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133892?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133892?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416143000 +0000" stop="20250416150000 +0000" channel="Rupavahini">
+                        <title lang="si">News And Weather Report - Live</title>
+                        <desc lang="si">News And Weather Report - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35091?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35091?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416150000 +0000" stop="20250416153000 +0000" channel="Rupavahini">
+                        <title lang="si">Murugasan Warusa</title>
+                        <desc lang="si">Murugasan Warusa</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/151969?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/151969?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416153000 +0000" stop="20250416160000 +0000" channel="Rupavahini">
+                        <title lang="si">Dlb Lottery Draw</title>
+                        <desc lang="si">Dlb Lottery Draw</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51635?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51635?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416160000 +0000" stop="20250416163000 +0000" channel="Rupavahini">
+                        <title lang="si">Sith Esaka Sakmana</title>
+                        <desc lang="si">Sith Esaka Sakmana</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/151260?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/151260?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416163000 +0000" stop="20250416183000 +0000" channel="Rupavahini">
+                        <title lang="si">Mahajana Dinaya</title>
+                        <desc lang="si">Mahajana Dinaya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133584?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133584?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416183000 +0000" stop="20250416184500 +0000" channel="Rupavahini">
+                        <title lang="si">Seth Pirith</title>
+                        <desc lang="si">Seth Pirith</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416184500 +0000" stop="20250417000000 +0000" channel="Rupavahini">
+                        <title lang="si">End Of Transmission</title>
+                        <desc lang="si">End Of Transmission</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417000000 +0000" stop="20250417000300 +0000" channel="Rupavahini">
+                        <title lang="si">Station Opening</title>
+                        <desc lang="si">Station Opening</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34423?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34423?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417000300 +0000" stop="20250417003000 +0000" channel="Rupavahini">
+                        <title lang="si">Manudam Prarthana</title>
+                        <desc lang="si">Manudam Prarthana</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50815?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50815?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417003000 +0000" stop="20250417010000 +0000" channel="Rupavahini">
+                        <title lang="si">Sivudesa - Live</title>
+                        <desc lang="si">Sivudesa - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/57903?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/57903?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417010000 +0000" stop="20250417013000 +0000" channel="Rupavahini">
+                        <title lang="si">Paththara Sirasthala - Live</title>
+                        <desc lang="si">Paththara Sirasthala - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34970?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34970?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417013000 +0000" stop="20250417023000 +0000" channel="Rupavahini">
+                        <title lang="si">Aluth Dinak- Live</title>
+                        <desc lang="si">Aluth Dinak- Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/94926?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/94926?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417023000 +0000" stop="20250417042500 +0000" channel="Rupavahini">
+                        <title lang="si">Nuga Sevana - Live</title>
+                        <desc lang="si">Nuga Sevana - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36390?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36390?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417042500 +0000" stop="20250417043000 +0000" channel="Rupavahini">
+                        <title lang="si">News - Live</title>
+                        <desc lang="si">News - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417043000 +0000" stop="20250417052500 +0000" channel="Rupavahini">
+                        <title lang="si">Nuga Sevana - Live</title>
+                        <desc lang="si">Nuga Sevana - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36390?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36390?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417052500 +0000" stop="20250417063000 +0000" channel="Rupavahini">
+                        <title lang="si">Ru Tunes</title>
+                        <desc lang="si">Ru Tunes</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61226?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61226?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417063000 +0000" stop="20250417070000 +0000" channel="Rupavahini">
+                        <title lang="si">News - Live</title>
+                        <desc lang="si">News - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417070000 +0000" stop="20250417082500 +0000" channel="Rupavahini">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152931?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152931?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417082500 +0000" stop="20250417083000 +0000" channel="Rupavahini">
+                        <title lang="si">News - Live</title>
+                        <desc lang="si">News - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417083000 +0000" stop="20250417093000 +0000" channel="Rupavahini">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152931?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152931?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416083000 +0000" stop="20250416092500 +0000" channel="ITN">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/151445?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/151445?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416092500 +0000" stop="20250416093000 +0000" channel="ITN">
+                        <title lang="si">News Update</title>
+                        <desc lang="si">News Update</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416093000 +0000" stop="20250416102500 +0000" channel="ITN">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/151445?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/151445?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416102500 +0000" stop="20250416103000 +0000" channel="ITN">
+                        <title lang="si">News Update</title>
+                        <desc lang="si">News Update</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416103000 +0000" stop="20250416110000 +0000" channel="ITN">
+                        <title lang="si">Back To Back Hits</title>
+                        <desc lang="si">Back To Back Hits</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52258?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52258?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416110000 +0000" stop="20250416112500 +0000" channel="ITN">
+                        <title lang="si">Six Pac</title>
+                        <desc lang="si">Six Pac</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/101458?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/101458?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416112500 +0000" stop="20250416113000 +0000" channel="ITN">
+                        <title lang="si">News Update</title>
+                        <desc lang="si">News Update</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416113000 +0000" stop="20250416120000 +0000" channel="ITN">
+                        <title lang="si">Dewarak Chakkare</title>
+                        <desc lang="si">Dewarak Chakkare</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133595?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133595?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416120000 +0000" stop="20250416122500 +0000" channel="ITN">
+                        <title lang="si">Mandaram Kathawe</title>
+                        <desc lang="si">Mandaram Kathawe</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133594?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133594?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416122500 +0000" stop="20250416123000 +0000" channel="ITN">
+                        <title lang="si">Theruwan Namadimu</title>
+                        <desc lang="si">Theruwan Namadimu</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83772?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83772?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416123000 +0000" stop="20250416130000 +0000" channel="ITN">
+                        <title lang="si">Henayaki Me Aadare</title>
+                        <desc lang="si">Henayaki Me Aadare</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/150632?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/150632?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416130000 +0000" stop="20250416140000 +0000" channel="ITN">
+                        <title lang="si">News &amp; Current Affairs</title>
+                        <desc lang="si">News &amp; Current Affairs</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83693?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83693?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416140000 +0000" stop="20250416143000 +0000" channel="ITN">
+                        <title lang="si">Seya</title>
+                        <desc lang="si">Seya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/139524?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/139524?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416143000 +0000" stop="20250416150000 +0000" channel="ITN">
+                        <title lang="si">Raaga</title>
+                        <desc lang="si">Raaga</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131815?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131815?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416150000 +0000" stop="20250416153000 +0000" channel="ITN">
+                        <title lang="si">Paradeese</title>
+                        <desc lang="si">Paradeese</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83726?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83726?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416153000 +0000" stop="20250416160000 +0000" channel="ITN">
+                        <title lang="si">Visekari</title>
+                        <desc lang="si">Visekari</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83590?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83590?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416160000 +0000" stop="20250416163000 +0000" channel="ITN">
+                        <title lang="si">NLB Lottery Draw</title>
+                        <desc lang="si">NLB Lottery Draw</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83673?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83673?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416163000 +0000" stop="20250416170000 +0000" channel="ITN">
+                        <title lang="si">News &amp; Current Affairs</title>
+                        <desc lang="si">News &amp; Current Affairs</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83693?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83693?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416170000 +0000" stop="20250416190000 +0000" channel="ITN">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/151445?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/151445?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416190000 +0000" stop="20250416190600 +0000" channel="ITN">
+                        <title lang="si">Mora Piritha</title>
+                        <desc lang="si">Mora Piritha</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50429?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50429?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416190600 +0000" stop="20250416233000 +0000" channel="ITN">
+                        <title lang="si">Close Of Transmission</title>
+                        <desc lang="si">Close Of Transmission</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51662?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51662?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416233500 +0000" stop="20250417002800 +0000" channel="ITN">
+                        <title lang="si">Itn Manuseth Sajjayanaya</title>
+                        <desc lang="si">Itn Manuseth Sajjayanaya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50431?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50431?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417002800 +0000" stop="20250417003000 +0000" channel="ITN">
+                        <title lang="si">Birthday Wishes</title>
+                        <desc lang="si">Birthday Wishes</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34286?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34286?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417003000 +0000" stop="20250417013000 +0000" channel="ITN">
+                        <title lang="si">Paththaren Eha</title>
+                        <desc lang="si">Paththaren Eha</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34528?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34528?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417013000 +0000" stop="20250417023000 +0000" channel="ITN">
+                        <title lang="si">Hathveni Peya</title>
+                        <desc lang="si">Hathveni Peya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83725?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83725?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417023000 +0000" stop="20250417030000 +0000" channel="ITN">
+                        <title lang="si">Seya</title>
+                        <desc lang="si">Seya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/139524?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/139524?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417030000 +0000" stop="20250417032500 +0000" channel="ITN">
+                        <title lang="si">Raaga</title>
+                        <desc lang="si">Raaga</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131815?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131815?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417032500 +0000" stop="20250417033000 +0000" channel="ITN">
+                        <title lang="si">News Update</title>
+                        <desc lang="si">News Update</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417033000 +0000" stop="20250417040000 +0000" channel="ITN">
+                        <title lang="si">Paradeese</title>
+                        <desc lang="si">Paradeese</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83726?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83726?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417040000 +0000" stop="20250417042500 +0000" channel="ITN">
+                        <title lang="si">Visekari</title>
+                        <desc lang="si">Visekari</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83590?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83590?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417042500 +0000" stop="20250417043000 +0000" channel="ITN">
+                        <title lang="si">News Update</title>
+                        <desc lang="si">News Update</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417043000 +0000" stop="20250417052000 +0000" channel="ITN">
+                        <title lang="si">Pini Viyana</title>
+                        <desc lang="si">Pini Viyana</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83591?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83591?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417052000 +0000" stop="20250417053000 +0000" channel="ITN">
+                        <title lang="si">Soopa Yathra</title>
+                        <desc lang="si">Soopa Yathra</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83774?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/83774?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417053000 +0000" stop="20250417063000 +0000" channel="ITN">
+                        <title lang="si">Music @ 11-Live</title>
+                        <desc lang="si">Music @ 11-Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61232?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61232?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417063000 +0000" stop="20250417070000 +0000" channel="ITN">
+                        <title lang="si">Noon News</title>
+                        <desc lang="si">Noon News</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50837?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50837?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417070000 +0000" stop="20250417082500 +0000" channel="ITN">
+                        <title lang="si">Urumi</title>
+                        <desc lang="si">Urumi</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/153200?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/153200?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417082500 +0000" stop="20250417083000 +0000" channel="ITN">
+                        <title lang="si">News Update</title>
+                        <desc lang="si">News Update</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417083000 +0000" stop="20250417092500 +0000" channel="ITN">
+                        <title lang="si">Urumi</title>
+                        <desc lang="si">Urumi</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/153200?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/153200?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416070500 +0000" stop="20250416103000 +0000" channel="TV Derana">
+                        <title lang="si">Pathu Thala</title>
+                        <desc lang="si">Pathu Thala</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152928?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152928?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416103000 +0000" stop="20250416105500 +0000" channel="TV Derana">
+                        <title lang="si">Golmaal S03</title>
+                        <desc lang="si">Golmaal S03</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152929?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152929?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416105500 +0000" stop="20250416112500 +0000" channel="TV Derana">
+                        <title lang="si">Ninja Hatori</title>
+                        <desc lang="si">Ninja Hatori</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/136469?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/136469?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416112500 +0000" stop="20250416115500 +0000" channel="TV Derana">
+                        <title lang="si">Kela Kalliya</title>
+                        <desc lang="si">Kela Kalliya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/149002?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/149002?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416115500 +0000" stop="20250416122500 +0000" channel="TV Derana">
+                        <title lang="si">Soortin Martin</title>
+                        <desc lang="si">Soortin Martin</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35025?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35025?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416122500 +0000" stop="20250416125500 +0000" channel="TV Derana">
+                        <title lang="si">Sikuru Awith</title>
+                        <desc lang="si">Sikuru Awith</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34952?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34952?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416125500 +0000" stop="20250416132500 +0000" channel="TV Derana">
+                        <title lang="si">Sitha Nidi Na</title>
+                        <desc lang="si">Sitha Nidi Na</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141526?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141526?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416132500 +0000" stop="20250416140000 +0000" channel="TV Derana">
+                        <title lang="si">Ada Derana @ 6.55</title>
+                        <desc lang="si">Ada Derana @ 6.55</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133909?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133909?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416140000 +0000" stop="20250416143000 +0000" channel="TV Derana">
+                        <title lang="si">Iskole</title>
+                        <desc lang="si">Iskole</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141527?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141527?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416143000 +0000" stop="20250416150000 +0000" channel="TV Derana">
+                        <title lang="si">Sangeethe S02</title>
+                        <desc lang="si">Sangeethe S02</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141528?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141528?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416150000 +0000" stop="20250416153000 +0000" channel="TV Derana">
+                        <title lang="si">Deveni Inima S02</title>
+                        <desc lang="si">Deveni Inima S02</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141523?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141523?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416153000 +0000" stop="20250416160000 +0000" channel="TV Derana">
+                        <title lang="si">Nikini Kusum</title>
+                        <desc lang="si">Nikini Kusum</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34950?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34950?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416160000 +0000" stop="20250416163000 +0000" channel="TV Derana">
+                        <title lang="si">Prarthana</title>
+                        <desc lang="si">Prarthana</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/107117?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/107117?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416163000 +0000" stop="20250416170500 +0000" channel="TV Derana">
+                        <title lang="si">Ada Derana @ 10.00</title>
+                        <desc lang="si">Ada Derana @ 10.00</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141524?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141524?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416170500 +0000" stop="20250416183000 +0000" channel="TV Derana">
+                        <title lang="si">Aluth Parlimenthuwa</title>
+                        <desc lang="si">Aluth Parlimenthuwa</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/149535?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/149535?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416183000 +0000" stop="20250416210000 +0000" channel="TV Derana">
+                        <title lang="si">Filler</title>
+                        <desc lang="si">Filler</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416210000 +0000" stop="20250416230500 +0000" channel="TV Derana">
+                        <title lang="si">Filler</title>
+                        <desc lang="si">Filler</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416230500 +0000" stop="20250417005500 +0000" channel="TV Derana">
+                        <title lang="si">Dahami Derana</title>
+                        <desc lang="si">Dahami Derana</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152399?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152399?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417005500 +0000" stop="20250417020000 +0000" channel="TV Derana">
+                        <title lang="si">Derana Aruna</title>
+                        <desc lang="si">Derana Aruna</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/102122?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/102122?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417020000 +0000" stop="20250417023000 +0000" channel="TV Derana">
+                        <title lang="si">Lokaya Saha Lokayo</title>
+                        <desc lang="si">Lokaya Saha Lokayo</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152400?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152400?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417023000 +0000" stop="20250417033000 +0000" channel="TV Derana">
+                        <title lang="si">Soortin Martin</title>
+                        <desc lang="si">Soortin Martin</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35025?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35025?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417033000 +0000" stop="20250417040000 +0000" channel="TV Derana">
+                        <title lang="si">Iskole</title>
+                        <desc lang="si">Iskole</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141527?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141527?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417040000 +0000" stop="20250417043000 +0000" channel="TV Derana">
+                        <title lang="si">Sangeethe S02</title>
+                        <desc lang="si">Sangeethe S02</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141528?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141528?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417043000 +0000" stop="20250417050000 +0000" channel="TV Derana">
+                        <title lang="si">Deveni Inima S02</title>
+                        <desc lang="si">Deveni Inima S02</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141523?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141523?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417050000 +0000" stop="20250417053000 +0000" channel="TV Derana">
+                        <title lang="si">Nikini Kusum</title>
+                        <desc lang="si">Nikini Kusum</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34950?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34950?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417053000 +0000" stop="20250417060000 +0000" channel="TV Derana">
+                        <title lang="si">Prarthana</title>
+                        <desc lang="si">Prarthana</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/107117?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/107117?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417060000 +0000" stop="20250417063000 +0000" channel="TV Derana">
+                        <title lang="si">Seda Mawatha</title>
+                        <desc lang="si">Seda Mawatha</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152397?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152397?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417063000 +0000" stop="20250417070500 +0000" channel="TV Derana">
+                        <title lang="si">Mid-Day News Bulletin</title>
+                        <desc lang="si">Mid-Day News Bulletin</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141525?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/141525?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417070500 +0000" stop="20250417103000 +0000" channel="TV Derana">
+                        <title lang="si">Vikram Vedha</title>
+                        <desc lang="si">Vikram Vedha</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/153199?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/153199?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416074500 +0000" stop="20250416110000 +0000" channel="Shakthi TV">
+                        <title lang="si">Shakthi</title>
+                        <desc lang="si">Shakthi</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/148683?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/148683?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416110000 +0000" stop="20250416113000 +0000" channel="Shakthi TV">
+                        <title lang="si">Toon Time</title>
+                        <desc lang="si">Toon Time</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51574?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51574?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416113000 +0000" stop="20250416123000 +0000" channel="Shakthi TV">
+                        <title lang="si">Shakthi Chat</title>
+                        <desc lang="si">Shakthi Chat</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/37096?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/37096?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416123000 +0000" stop="20250416130000 +0000" channel="Shakthi TV">
+                        <title lang="si">Moondru Mudichu</title>
+                        <desc lang="si">Moondru Mudichu</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/62218?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/62218?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416130000 +0000" stop="20250416133000 +0000" channel="Shakthi TV">
+                        <title lang="si">Kayal</title>
+                        <desc lang="si">Kayal</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52084?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52084?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416133000 +0000" stop="20250416140000 +0000" channel="Shakthi TV">
+                        <title lang="si">Ethirneechal</title>
+                        <desc lang="si">Ethirneechal</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34932?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34932?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416140000 +0000" stop="20250416143000 +0000" channel="Shakthi TV">
+                        <title lang="si">Singapenne</title>
+                        <desc lang="si">Singapenne</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36914?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36914?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416143000 +0000" stop="20250416150000 +0000" channel="Shakthi TV">
+                        <title lang="si">Shakthi News 1st</title>
+                        <desc lang="si">Shakthi News 1st</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50769?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50769?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416150000 +0000" stop="20250416153000 +0000" channel="Shakthi TV">
+                        <title lang="si">Mr.Manaivi</title>
+                        <desc lang="si">Mr.Manaivi</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34302?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34302?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416153000 +0000" stop="20250416160000 +0000" channel="Shakthi TV">
+                        <title lang="si">Lakshmi</title>
+                        <desc lang="si">Lakshmi</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52099?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52099?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416160000 +0000" stop="20250416163000 +0000" channel="Shakthi TV">
+                        <title lang="si">Sundari</title>
+                        <desc lang="si">Sundari</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52100?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52100?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416163000 +0000" stop="20250416170000 +0000" channel="Shakthi TV">
+                        <title lang="si">News 1st Tonight</title>
+                        <desc lang="si">News 1st Tonight</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50770?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50770?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416170000 +0000" stop="20250416183000 +0000" channel="Shakthi TV">
+                        <title lang="si">Shakthi</title>
+                        <desc lang="si">Shakthi</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/148683?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/148683?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416183000 +0000" stop="20250416232900 +0000" channel="Shakthi TV">
+                        <title lang="si">End of Transmission</title>
+                        <desc lang="si">End of Transmission</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416232900 +0000" stop="20250416233000 +0000" channel="Shakthi TV">
+                        <title lang="si">Station Opening</title>
+                        <desc lang="si">Station Opening</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50776?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50776?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416234500 +0000" stop="20250417000000 +0000" channel="Shakthi TV">
+                        <title lang="si">Alayam</title>
+                        <desc lang="si">Alayam</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51671?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51671?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417000000 +0000" stop="20250417003000 +0000" channel="Shakthi TV">
+                        <title lang="si">News 1st</title>
+                        <desc lang="si">News 1st</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35026?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35026?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417003000 +0000" stop="20250417004500 +0000" channel="Shakthi TV">
+                        <title lang="si">Nalla Neram</title>
+                        <desc lang="si">Nalla Neram</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35339?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35339?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417004500 +0000" stop="20250417011500 +0000" channel="Shakthi TV">
+                        <title lang="si">Ezhumin</title>
+                        <desc lang="si">Ezhumin</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/37500?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/37500?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417011500 +0000" stop="20250417013000 +0000" channel="Shakthi TV">
+                        <title lang="si">News 1st Sun Rise</title>
+                        <desc lang="si">News 1st Sun Rise</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52098?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52098?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417013000 +0000" stop="20250417023000 +0000" channel="Shakthi TV">
+                        <title lang="si">Good Morning Sri Lanka</title>
+                        <desc lang="si">Good Morning Sri Lanka</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35144?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35144?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417023000 +0000" stop="20250417033000 +0000" channel="Shakthi TV">
+                        <title lang="si">Nenjam Marappathillai</title>
+                        <desc lang="si">Nenjam Marappathillai</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50772?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50772?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417033000 +0000" stop="20250417040000 +0000" channel="Shakthi TV">
+                        <title lang="si">Mayaththirai</title>
+                        <desc lang="si">Mayaththirai</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52085?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52085?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417040000 +0000" stop="20250417043000 +0000" channel="Shakthi TV">
+                        <title lang="si">Anandha Ragam</title>
+                        <desc lang="si">Anandha Ragam</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52086?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52086?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417043000 +0000" stop="20250417050000 +0000" channel="Shakthi TV">
+                        <title lang="si">Malar</title>
+                        <desc lang="si">Malar</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52088?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52088?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417050000 +0000" stop="20250417053000 +0000" channel="Shakthi TV">
+                        <title lang="si">Priyamana Thozhi</title>
+                        <desc lang="si">Priyamana Thozhi</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36480?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36480?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417053000 +0000" stop="20250417060000 +0000" channel="Shakthi TV">
+                        <title lang="si">Puthu Vasantham</title>
+                        <desc lang="si">Puthu Vasantham</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52089?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52089?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417060000 +0000" stop="20250417063000 +0000" channel="Shakthi TV">
+                        <title lang="si">Vaanatha Pola</title>
+                        <desc lang="si">Vaanatha Pola</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50765?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50765?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417063000 +0000" stop="20250417073000 +0000" channel="Shakthi TV">
+                        <title lang="si">Retro Ragangal</title>
+                        <desc lang="si">Retro Ragangal</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52087?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/52087?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417073000 +0000" stop="20250417074500 +0000" channel="Shakthi TV">
+                        <title lang="si">News 1st</title>
+                        <desc lang="si">News 1st</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35026?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35026?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417074500 +0000" stop="20250417110000 +0000" channel="Shakthi TV">
+                        <title lang="si">Shakthi</title>
+                        <desc lang="si">Shakthi</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/148683?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/148683?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416073000 +0000" stop="20250416103000 +0000" channel="Supreme TV">
+                        <title lang="si">Anandhapurathu Veedu</title>
+                        <desc lang="si">Anandhapurathu Veedu</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416103000 +0000" stop="20250416113000 +0000" channel="Supreme TV">
+                        <title lang="si">Cna On Tv Supreme</title>
+                        <desc lang="si">Cna On Tv Supreme</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416113000 +0000" stop="20250416123000 +0000" channel="Supreme TV">
+                        <title lang="si">Cna On Tv Supreme</title>
+                        <desc lang="si">Cna On Tv Supreme</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416123000 +0000" stop="20250416125500 +0000" channel="Supreme TV">
+                        <title lang="si">Vishwa Serisara</title>
+                        <desc lang="si">Vishwa Serisara</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/84388?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/84388?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416125500 +0000" stop="20250416140000 +0000" channel="Supreme TV">
+                        <title lang="si">Tv Supreme News - Prime Time Live</title>
+                        <desc lang="si">Tv Supreme News - Prime Time Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416140000 +0000" stop="20250416140300 +0000" channel="Supreme TV">
+                        <title lang="si">Spot Light</title>
+                        <desc lang="si">Spot Light</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/129437?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/129437?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416140300 +0000" stop="20250416170000 +0000" channel="Supreme TV">
+                        <title lang="si">Showtime@Night</title>
+                        <desc lang="si">Showtime@Night</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="Supreme TV">
+                        <title lang="si">Tv Supreme News - Night Time</title>
+                        <desc lang="si">Tv Supreme News - Night Time</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416180000 +0000" stop="20250416203000 +0000" channel="Supreme TV">
+                        <title lang="si">Cna On Tv Supreme</title>
+                        <desc lang="si">Cna On Tv Supreme</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416203000 +0000" stop="20250416223000 +0000" channel="Supreme TV">
+                        <title lang="si">Nasa On Tv Supreme</title>
+                        <desc lang="si">Nasa On Tv Supreme</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416223000 +0000" stop="20250416232000 +0000" channel="Supreme TV">
+                        <title lang="si">Cna On Tv Supreme</title>
+                        <desc lang="si">Cna On Tv Supreme</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416232000 +0000" stop="20250417003000 +0000" channel="Supreme TV">
+                        <title lang="si">Asiri Diri Piritha</title>
+                        <desc lang="si">Asiri Diri Piritha</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36198?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36198?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417003000 +0000" stop="20250417005500 +0000" channel="Supreme TV">
+                        <title lang="si">Saddharmalankaraya</title>
+                        <desc lang="si">Saddharmalankaraya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/106063?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/106063?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417005500 +0000" stop="20250417015500 +0000" channel="Supreme TV">
+                        <title lang="si">Supreme Pituwen Pituwa - Live</title>
+                        <desc lang="si">Supreme Pituwen Pituwa - Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/72281?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/72281?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417015500 +0000" stop="20250417023000 +0000" channel="Supreme TV">
+                        <title lang="si">Hathara Wate</title>
+                        <desc lang="si">Hathara Wate</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/102075?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/102075?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417023000 +0000" stop="20250417030000 +0000" channel="Supreme TV">
+                        <title lang="si">Every Morning</title>
+                        <desc lang="si">Every Morning</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131839?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131839?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417030000 +0000" stop="20250417033000 +0000" channel="Supreme TV">
+                        <title lang="si">Every Morning</title>
+                        <desc lang="si">Every Morning</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131839?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131839?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417033000 +0000" stop="20250417040000 +0000" channel="Supreme TV">
+                        <title lang="si">Every Morning</title>
+                        <desc lang="si">Every Morning</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131839?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131839?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417040000 +0000" stop="20250417043000 +0000" channel="Supreme TV">
+                        <title lang="si">Every Morning</title>
+                        <desc lang="si">Every Morning</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131839?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131839?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417043000 +0000" stop="20250417050000 +0000" channel="Supreme TV">
+                        <title lang="si">Every Morning</title>
+                        <desc lang="si">Every Morning</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131839?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/131839?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417050000 +0000" stop="20250417053000 +0000" channel="Supreme TV">
+                        <title lang="si">Cna On Tv Supreme</title>
+                        <desc lang="si">Cna On Tv Supreme</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417053000 +0000" stop="20250417055500 +0000" channel="Supreme TV">
+                        <title lang="si">Cna On Tv Supreme</title>
+                        <desc lang="si">Cna On Tv Supreme</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417055500 +0000" stop="20250417063000 +0000" channel="Supreme TV">
+                        <title lang="si">Tv Supreme News - Midday Live</title>
+                        <desc lang="si">Tv Supreme News - Midday Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417063000 +0000" stop="20250417073000 +0000" channel="Supreme TV">
+                        <title lang="si">Rhythm Cafe</title>
+                        <desc lang="si">Rhythm Cafe</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/82655?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/82655?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417073000 +0000" stop="20250417103000 +0000" channel="Supreme TV">
+                        <title lang="si">Kaadhal 2014</title>
+                        <desc lang="si">Kaadhal 2014</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50413?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416073000 +0000" stop="20250416103000 +0000" channel="Siyatha TV">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416103000 +0000" stop="20250416113000 +0000" channel="Siyatha TV">
+                        <title lang="si">Music Highway</title>
+                        <desc lang="si">Music Highway</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/80355?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/80355?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416113000 +0000" stop="20250416123000 +0000" channel="Siyatha TV">
+                        <title lang="si">Poddo Waddo</title>
+                        <desc lang="si">Poddo Waddo</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35071?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35071?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416123000 +0000" stop="20250416132500 +0000" channel="Siyatha TV">
+                        <title lang="si">News Live</title>
+                        <desc lang="si">News Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35067?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35067?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416132500 +0000" stop="20250416140000 +0000" channel="Siyatha TV">
+                        <title lang="si">Officelanthaya</title>
+                        <desc lang="si">Officelanthaya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50844?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/50844?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416140000 +0000" stop="20250416143000 +0000" channel="Siyatha TV">
+                        <title lang="si">Sindu</title>
+                        <desc lang="si">Sindu</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/136501?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/136501?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416143000 +0000" stop="20250416150000 +0000" channel="Siyatha TV">
+                        <title lang="si">Nimawak Nathi</title>
+                        <desc lang="si">Nimawak Nathi</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/94921?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/94921?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416150000 +0000" stop="20250416153000 +0000" channel="Siyatha TV">
+                        <title lang="si">Golu Thaththa</title>
+                        <desc lang="si">Golu Thaththa</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/104518?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/104518?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416153000 +0000" stop="20250416160500 +0000" channel="Siyatha TV">
+                        <title lang="si">Alu</title>
+                        <desc lang="si">Alu</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/127313?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/127313?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416160500 +0000" stop="20250416164500 +0000" channel="Siyatha TV">
+                        <title lang="si">Prime Time News Live</title>
+                        <desc lang="si">Prime Time News Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35075?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35075?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416164500 +0000" stop="20250416193000 +0000" channel="Siyatha TV">
+                        <title lang="si">Siyatha Teli Waki</title>
+                        <desc lang="si">Siyatha Teli Waki</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133836?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/133836?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416193000 +0000" stop="20250416233000 +0000" channel="Siyatha TV">
+                        <title lang="si">Mid Night News</title>
+                        <desc lang="si">Mid Night News</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/71694?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/71694?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417003000 +0000" stop="20250417004500 +0000" channel="Siyatha TV">
+                        <title lang="si">News @ 06.00 AM</title>
+                        <desc lang="si">News @ 06.00 AM</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51242?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51242?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417004500 +0000" stop="20250417020000 +0000" channel="Siyatha TV">
+                        <title lang="si">Siyatha Paththare Live</title>
+                        <desc lang="si">Siyatha Paththare Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/75691?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/75691?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417020000 +0000" stop="20250417043000 +0000" channel="Siyatha TV">
+                        <title lang="si">Adaraneeya Jeevithaya Live</title>
+                        <desc lang="si">Adaraneeya Jeevithaya Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/73496?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/73496?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417043000 +0000" stop="20250417050000 +0000" channel="Siyatha TV">
+                        <title lang="si">Kasi Waththa</title>
+                        <desc lang="si">Kasi Waththa</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/97474?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/97474?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417050000 +0000" stop="20250417053000 +0000" channel="Siyatha TV">
+                        <title lang="si">Ihirunu Kiri</title>
+                        <desc lang="si">Ihirunu Kiri</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/139648?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/139648?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417053000 +0000" stop="20250417060000 +0000" channel="Siyatha TV">
+                        <title lang="si">Irudeniyaya</title>
+                        <desc lang="si">Irudeniyaya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/139649?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/139649?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417060000 +0000" stop="20250417063000 +0000" channel="Siyatha TV">
+                        <title lang="si">Rahe</title>
+                        <desc lang="si">Rahe</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/86572?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/86572?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417063000 +0000" stop="20250417070000 +0000" channel="Siyatha TV">
+                        <title lang="si">News @ 12 Noon Live</title>
+                        <desc lang="si">News @ 12 Noon Live</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51934?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/51934?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417070000 +0000" stop="20250417073000 +0000" channel="Siyatha TV">
+                        <title lang="si">Lunch Time Music</title>
+                        <desc lang="si">Lunch Time Music</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36246?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36246?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417073000 +0000" stop="20250417103000 +0000" channel="Siyatha TV">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416090000 +0000" stop="20250416093000 +0000" channel="Ridee TV">
+                        <title lang="si">Sinasenna Mata</title>
+                        <desc lang="si">Sinasenna Mata</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61615?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61615?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416093000 +0000" stop="20250416120000 +0000" channel="Ridee TV">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416120000 +0000" stop="20250416123000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416123000 +0000" stop="20250416130000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416130000 +0000" stop="20250416133000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416133000 +0000" stop="20250416160000 +0000" channel="Ridee TV">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416160000 +0000" stop="20250416163000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416163000 +0000" stop="20250416170000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416170000 +0000" stop="20250416173000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416173000 +0000" stop="20250416200000 +0000" channel="Ridee TV">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416200000 +0000" stop="20250416203000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416203000 +0000" stop="20250416210000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416210000 +0000" stop="20250416213000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416213000 +0000" stop="20250417000000 +0000" channel="Ridee TV">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417000000 +0000" stop="20250417003000 +0000" channel="Ridee TV">
+                        <title lang="si">Para pana</title>
+                        <desc lang="si">Para pana</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61616?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61616?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417003000 +0000" stop="20250417010000 +0000" channel="Ridee TV">
+                        <title lang="si">Sasara Gamana</title>
+                        <desc lang="si">Sasara Gamana</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61617?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61617?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417010000 +0000" stop="20250417013000 +0000" channel="Ridee TV">
+                        <title lang="si">Parawaradeema</title>
+                        <desc lang="si">Parawaradeema</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61618?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61618?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417013000 +0000" stop="20250417040000 +0000" channel="Ridee TV">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417040000 +0000" stop="20250417043000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417043000 +0000" stop="20250417050000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417050000 +0000" stop="20250417053000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417053000 +0000" stop="20250417080000 +0000" channel="Ridee TV">
+                        <title lang="si">Movie</title>
+                        <desc lang="si">Movie</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417080000 +0000" stop="20250417083000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417083000 +0000" stop="20250417090000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417090000 +0000" stop="20250417093000 +0000" channel="Ridee TV">
+                        <title lang="si">Yasa Isuru</title>
+                        <desc lang="si">Yasa Isuru</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34094?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416083000 +0000" stop="20250416113000 +0000" channel="Citi Hitz">
+                        <title lang="si">Aparna</title>
+                        <desc lang="si">Aparna</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152394?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152394?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416113000 +0000" stop="20250416143000 +0000" channel="Citi Hitz">
+                        <title lang="si">Mahogaya</title>
+                        <desc lang="si">Mahogaya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152395?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152395?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416143000 +0000" stop="20250416173000 +0000" channel="Citi Hitz">
+                        <title lang="si">Isira Bhawaya</title>
+                        <desc lang="si">Isira Bhawaya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152392?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152392?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416173000 +0000" stop="20250416203000 +0000" channel="Citi Hitz">
+                        <title lang="si">Wasana Wewa</title>
+                        <desc lang="si">Wasana Wewa</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152393?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152393?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416203000 +0000" stop="20250416233000 +0000" channel="Citi Hitz">
+                        <title lang="si">Aparna</title>
+                        <desc lang="si">Aparna</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152394?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152394?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417013000 +0000" stop="20250417023000 +0000" channel="Citi Hitz">
+                        <title lang="si">Rathana Suthra Deshanawa</title>
+                        <desc lang="si">Rathana Suthra Deshanawa</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61238?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61238?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417023000 +0000" stop="20250417053000 +0000" channel="Citi Hitz">
+                        <title lang="si">Isira Bhawaya</title>
+                        <desc lang="si">Isira Bhawaya</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152392?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152392?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417053000 +0000" stop="20250417083000 +0000" channel="Citi Hitz">
+                        <title lang="si">Wasana Wewa</title>
+                        <desc lang="si">Wasana Wewa</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152393?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152393?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417083000 +0000" stop="20250417113000 +0000" channel="Citi Hitz">
+                        <title lang="si">Aparna</title>
+                        <desc lang="si">Aparna</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152394?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/152394?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416090000 +0000" stop="20250416093000 +0000" channel="Hi TV">
+                        <title lang="si">Classic Music</title>
+                        <desc lang="si">Classic Music</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416093000 +0000" stop="20250416100000 +0000" channel="Hi TV">
+                        <title lang="si">This Is Srilanka</title>
+                        <desc lang="si">This Is Srilanka</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61258?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61258?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416100000 +0000" stop="20250416103000 +0000" channel="Hi TV">
+                        <title lang="si">Hi Studio</title>
+                        <desc lang="si">Hi Studio</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34384?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/34384?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416103000 +0000" stop="20250416110000 +0000" channel="Hi TV">
+                        <title lang="si">Film And Stars</title>
+                        <desc lang="si">Film And Stars</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36076?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/36076?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416110000 +0000" stop="20250416113000 +0000" channel="Hi TV">
+                        <title lang="si">Hi Events</title>
+                        <desc lang="si">Hi Events</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33573?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33573?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416113000 +0000" stop="20250416120000 +0000" channel="Hi TV">
+                        <title lang="si">Hi Events</title>
+                        <desc lang="si">Hi Events</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33573?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33573?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416120000 +0000" stop="20250416123000 +0000" channel="Hi TV">
+                        <title lang="si">Hobbylicious</title>
+                        <desc lang="si">Hobbylicious</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/62938?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/62938?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416123000 +0000" stop="20250416130000 +0000" channel="Hi TV">
+                        <title lang="si">Space</title>
+                        <desc lang="si">Space</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33433?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33433?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416130000 +0000" stop="20250416133000 +0000" channel="Hi TV">
+                        <title lang="si">Classic Music</title>
+                        <desc lang="si">Classic Music</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416133000 +0000" stop="20250416140000 +0000" channel="Hi TV">
+                        <title lang="si">A List Life Style</title>
+                        <desc lang="si">A List Life Style</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61507?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61507?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416140000 +0000" stop="20250416143000 +0000" channel="Hi TV">
+                        <title lang="si">Hollywood Buzz</title>
+                        <desc lang="si">Hollywood Buzz</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35584?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35584?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416143000 +0000" stop="20250416150000 +0000" channel="Hi TV">
+                        <title lang="si">Mind Your Language</title>
+                        <desc lang="si">Mind Your Language</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61500?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61500?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416150000 +0000" stop="20250416153000 +0000" channel="Hi TV">
+                        <title lang="si">The Srilankan Understanding</title>
+                        <desc lang="si">The Srilankan Understanding</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61714?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61714?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416153000 +0000" stop="20250416160000 +0000" channel="Hi TV">
+                        <title lang="si">Hi Events</title>
+                        <desc lang="si">Hi Events</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33573?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33573?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416160000 +0000" stop="20250416163000 +0000" channel="Hi TV">
+                        <title lang="si">Curtain Call</title>
+                        <desc lang="si">Curtain Call</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33434?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33434?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416163000 +0000" stop="20250416170000 +0000" channel="Hi TV">
+                        <title lang="si">Danu On Fire</title>
+                        <desc lang="si">Danu On Fire</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61257?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61257?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416170000 +0000" stop="20250416183000 +0000" channel="Hi TV">
+                        <title lang="si">Classic Music</title>
+                        <desc lang="si">Classic Music</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416183000 +0000" stop="20250416213000 +0000" channel="Hi TV">
+                        <title lang="si">Classic Music</title>
+                        <desc lang="si">Classic Music</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250416213000 +0000" stop="20250417013000 +0000" channel="Hi TV">
+                        <title lang="si">Classic Music</title>
+                        <desc lang="si">Classic Music</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417013000 +0000" stop="20250417020000 +0000" channel="Hi TV">
+                        <title lang="si">A List Life Style</title>
+                        <desc lang="si">A List Life Style</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61507?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61507?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417020000 +0000" stop="20250417023000 +0000" channel="Hi TV">
+                        <title lang="si">Hollywood Buzz</title>
+                        <desc lang="si">Hollywood Buzz</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35584?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35584?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417023000 +0000" stop="20250417030000 +0000" channel="Hi TV">
+                        <title lang="si">Mind Your Language</title>
+                        <desc lang="si">Mind Your Language</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61500?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61500?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417030000 +0000" stop="20250417033000 +0000" channel="Hi TV">
+                        <title lang="si">The Srilankan Understanding</title>
+                        <desc lang="si">The Srilankan Understanding</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61714?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61714?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417033000 +0000" stop="20250417040000 +0000" channel="Hi TV">
+                        <title lang="si">Hi Events</title>
+                        <desc lang="si">Hi Events</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33573?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33573?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417040000 +0000" stop="20250417043000 +0000" channel="Hi TV">
+                        <title lang="si">Curtain Call</title>
+                        <desc lang="si">Curtain Call</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33434?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33434?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417043000 +0000" stop="20250417050000 +0000" channel="Hi TV">
+                        <title lang="si">Danu On Fire</title>
+                        <desc lang="si">Danu On Fire</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61257?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61257?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417050000 +0000" stop="20250417053000 +0000" channel="Hi TV">
+                        <title lang="si">Classic Music</title>
+                        <desc lang="si">Classic Music</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417053000 +0000" stop="20250417060000 +0000" channel="Hi TV">
+                        <title lang="si">A List Life Style</title>
+                        <desc lang="si">A List Life Style</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61507?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61507?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417060000 +0000" stop="20250417063000 +0000" channel="Hi TV">
+                        <title lang="si">Hollywood Buzz</title>
+                        <desc lang="si">Hollywood Buzz</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35584?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/35584?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417063000 +0000" stop="20250417070000 +0000" channel="Hi TV">
+                        <title lang="si">Mind Your Language</title>
+                        <desc lang="si">Mind Your Language</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61500?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61500?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417070000 +0000" stop="20250417073000 +0000" channel="Hi TV">
+                        <title lang="si">The Srilankan Understanding</title>
+                        <desc lang="si">The Srilankan Understanding</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61714?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61714?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417073000 +0000" stop="20250417080000 +0000" channel="Hi TV">
+                        <title lang="si">Hi Events</title>
+                        <desc lang="si">Hi Events</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33573?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33573?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417080000 +0000" stop="20250417083000 +0000" channel="Hi TV">
+                        <title lang="si">Curtain Call</title>
+                        <desc lang="si">Curtain Call</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33434?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33434?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417083000 +0000" stop="20250417090000 +0000" channel="Hi TV">
+                        <title lang="si">Danu On Fire</title>
+                        <desc lang="si">Danu On Fire</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61257?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/61257?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+<programme start="20250417090000 +0000" stop="20250417093000 +0000" channel="Hi TV">
+                        <title lang="si">Classic Music</title>
+                        <desc lang="si">Classic Music</desc>
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                        <icon src="https://api3.viu.lk/api/client/v1/global/images/33432?accessKey=WkVjNWNscFhORDBLCg==" />
+                    </programme>
+</tv>
