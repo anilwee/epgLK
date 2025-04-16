@@ -8,11 +8,10 @@ import os
 def fetch_and_filter_epg(output_path, target_channels, timezone_str="Pacific/Auckland"):
     # Step 1: Download and extract the XML
     url = "https://watch.livecricketsl.xyz/epg/epg.xml.gz"
-   headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-}
-response = requests.get(url, headers=headers)
-
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    }
+    response = requests.get(url, headers=headers)
     if response.status_code != 200:
         raise Exception("Failed to fetch EPG file")
 
